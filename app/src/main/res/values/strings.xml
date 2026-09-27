@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PagosFlow BDV Connector</string>
+    <string name="notification_service_label">Servicio PagosFlow BDV Connector</string>
+</resources>
